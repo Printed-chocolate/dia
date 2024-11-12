@@ -1,0 +1,106 @@
+=====Simulations of Micromagnetics=====
+Number of points along x-axis:
+M=128
+Number of points along y-axis:
+N=128
+Number of points along z-axis:
+K=2
+Number of time steps:
+nsteps=1.500000e+04
+Number of ouput points:
+npoints=600
+Time step size:
+dt=3.000000e-14
+x-length of sample:
+X=1.280000e-07
+y-length of sample:
+Y=1.280000e-07
+Thickness of sample:
+Z=2.000000e-09
+Sature magnetization:
+Ms=5.800000e+05
+Exchange energy term:
+An=1.500000e-11
+Anisotropy term:
+Ku=8.000000e+05
+Gyromagnetic ratio:
+gam=1.286600e+11
+Damping factor:
+alpha=8.000000e-01
+Relative tolerance:
+RelTol=1.000000e-09
+driving current density:
+dcd=2.100000e+06
+spin Hall angle:
+sha=1.000000e-01
+radius of the initial perturbation:
+rad=4.000000e-09
+interface-induced DMI:
+idmi=2.700000e-03
+Time=2.342250e-10 ; Total Energy=8.519620e-18 ; Exchange Energy=1.401407e-18; StrayField Energy=6.386125e-18; Anisotropy Energy=6.920509e-19; DMI Energy=4.003677e-20
+Time=2.349750e-10 ; Total Energy=8.520317e-18 ; Exchange Energy=1.401860e-18; StrayField Energy=6.386018e-18; Anisotropy Energy=6.923901e-19; DMI Energy=4.004923e-20
+Time=2.357250e-10 ; Total Energy=8.521012e-18 ; Exchange Energy=1.402311e-18; StrayField Energy=6.385911e-18; Anisotropy Energy=6.927275e-19; DMI Energy=4.006163e-20
+Time=2.364750e-10 ; Total Energy=8.521702e-18 ; Exchange Energy=1.402760e-18; StrayField Energy=6.385805e-18; Anisotropy Energy=6.930632e-19; DMI Energy=4.007396e-20
+Time=2.372250e-10 ; Total Energy=8.522389e-18 ; Exchange Energy=1.403207e-18; StrayField Energy=6.385700e-18; Anisotropy Energy=6.933971e-19; DMI Energy=4.008622e-20
+Time=2.379750e-10 ; Total Energy=8.523073e-18 ; Exchange Energy=1.403651e-18; StrayField Energy=6.385595e-18; Anisotropy Energy=6.937292e-19; DMI Energy=4.009842e-20
+Time=2.387250e-10 ; Total Energy=8.523753e-18 ; Exchange Energy=1.404093e-18; StrayField Energy=6.385490e-18; Anisotropy Energy=6.940596e-19; DMI Energy=4.011056e-20
+Time=2.394750e-10 ; Total Energy=8.524430e-18 ; Exchange Energy=1.404533e-18; StrayField Energy=6.385386e-18; Anisotropy Energy=6.943883e-19; DMI Energy=4.012263e-20
+Time=2.402250e-10 ; Total Energy=8.525104e-18 ; Exchange Energy=1.404971e-18; StrayField Energy=6.385283e-18; Anisotropy Energy=6.947153e-19; DMI Energy=4.013463e-20
+Time=2.409750e-10 ; Total Energy=8.525774e-18 ; Exchange Energy=1.405406e-18; StrayField Energy=6.385181e-18; Anisotropy Energy=6.950406e-19; DMI Energy=4.014658e-20
+Time=2.417250e-10 ; Total Energy=8.526441e-18 ; Exchange Energy=1.405839e-18; StrayField Energy=6.385079e-18; Anisotropy Energy=6.953641e-19; DMI Energy=4.015846e-20
+Time=2.424750e-10 ; Total Energy=8.527104e-18 ; Exchange Energy=1.406271e-18; StrayField Energy=6.384977e-18; Anisotropy Energy=6.956860e-19; DMI Energy=4.017028e-20
+Time=2.432250e-10 ; Total Energy=8.527764e-18 ; Exchange Energy=1.406700e-18; StrayField Energy=6.384876e-18; Anisotropy Energy=6.960062e-19; DMI Energy=4.018204e-20
+Time=2.439750e-10 ; Total Energy=8.528421e-18 ; Exchange Energy=1.407127e-18; StrayField Energy=6.384776e-18; Anisotropy Energy=6.963248e-19; DMI Energy=4.019373e-20
+Time=2.447250e-10 ; Total Energy=8.529075e-18 ; Exchange Energy=1.407551e-18; StrayField Energy=6.384676e-18; Anisotropy Energy=6.966417e-19; DMI Energy=4.020537e-20
+Time=2.454750e-10 ; Total Energy=8.529725e-18 ; Exchange Energy=1.407974e-18; StrayField Energy=6.384577e-18; Anisotropy Energy=6.969570e-19; DMI Energy=4.021694e-20
+Time=2.462250e-10 ; Total Energy=8.530372e-18 ; Exchange Energy=1.408395e-18; StrayField Energy=6.384478e-18; Anisotropy Energy=6.972706e-19; DMI Energy=4.022846e-20
+Time=2.469750e-10 ; Total Energy=8.531016e-18 ; Exchange Energy=1.408813e-18; StrayField Energy=6.384380e-18; Anisotropy Energy=6.975826e-19; DMI Energy=4.023991e-20
+Time=2.477250e-10 ; Total Energy=8.531657e-18 ; Exchange Energy=1.409229e-18; StrayField Energy=6.384283e-18; Anisotropy Energy=6.978930e-19; DMI Energy=4.025131e-20
+Time=2.484750e-10 ; Total Energy=8.532294e-18 ; Exchange Energy=1.409644e-18; StrayField Energy=6.384186e-18; Anisotropy Energy=6.982018e-19; DMI Energy=4.026265e-20
+Time=2.492250e-10 ; Total Energy=8.532929e-18 ; Exchange Energy=1.410056e-18; StrayField Energy=6.384089e-18; Anisotropy Energy=6.985091e-19; DMI Energy=4.027393e-20
+Time=2.499750e-10 ; Total Energy=8.533560e-18 ; Exchange Energy=1.410466e-18; StrayField Energy=6.383994e-18; Anisotropy Energy=6.988147e-19; DMI Energy=4.028515e-20
+Time=2.507250e-10 ; Total Energy=8.534188e-18 ; Exchange Energy=1.410874e-18; StrayField Energy=6.383898e-18; Anisotropy Energy=6.991187e-19; DMI Energy=4.029631e-20
+Time=2.514750e-10 ; Total Energy=8.534813e-18 ; Exchange Energy=1.411281e-18; StrayField Energy=6.383804e-18; Anisotropy Energy=6.994212e-19; DMI Energy=4.030742e-20
+Time=2.522250e-10 ; Total Energy=8.535435e-18 ; Exchange Energy=1.411685e-18; StrayField Energy=6.383709e-18; Anisotropy Energy=6.997221e-19; DMI Energy=4.031847e-20
+Time=2.529750e-10 ; Total Energy=8.536054e-18 ; Exchange Energy=1.412087e-18; StrayField Energy=6.383616e-18; Anisotropy Energy=7.000215e-19; DMI Energy=4.032947e-20
+Time=2.537250e-10 ; Total Energy=8.536670e-18 ; Exchange Energy=1.412487e-18; StrayField Energy=6.383523e-18; Anisotropy Energy=7.003194e-19; DMI Energy=4.034040e-20
+Time=2.544750e-10 ; Total Energy=8.537282e-18 ; Exchange Energy=1.412885e-18; StrayField Energy=6.383430e-18; Anisotropy Energy=7.006157e-19; DMI Energy=4.035129e-20
+Time=2.552250e-10 ; Total Energy=8.537892e-18 ; Exchange Energy=1.413282e-18; StrayField Energy=6.383338e-18; Anisotropy Energy=7.009105e-19; DMI Energy=4.036212e-20
+Time=2.559750e-10 ; Total Energy=8.538499e-18 ; Exchange Energy=1.413676e-18; StrayField Energy=6.383246e-18; Anisotropy Energy=7.012038e-19; DMI Energy=4.037289e-20
+Time=2.567250e-10 ; Total Energy=8.539103e-18 ; Exchange Energy=1.414068e-18; StrayField Energy=6.383155e-18; Anisotropy Energy=7.014956e-19; DMI Energy=4.038361e-20
+Time=2.574750e-10 ; Total Energy=8.539704e-18 ; Exchange Energy=1.414459e-18; StrayField Energy=6.383065e-18; Anisotropy Energy=7.017859e-19; DMI Energy=4.039427e-20
+Time=2.582250e-10 ; Total Energy=8.540301e-18 ; Exchange Energy=1.414847e-18; StrayField Energy=6.382975e-18; Anisotropy Energy=7.020747e-19; DMI Energy=4.040488e-20
+Time=2.589750e-10 ; Total Energy=8.540896e-18 ; Exchange Energy=1.415234e-18; StrayField Energy=6.382885e-18; Anisotropy Energy=7.023620e-19; DMI Energy=4.041544e-20
+Time=2.597250e-10 ; Total Energy=8.541488e-18 ; Exchange Energy=1.415618e-18; StrayField Energy=6.382796e-18; Anisotropy Energy=7.026479e-19; DMI Energy=4.042595e-20
+Time=2.604750e-10 ; Total Energy=8.542078e-18 ; Exchange Energy=1.416001e-18; StrayField Energy=6.382708e-18; Anisotropy Energy=7.029323e-19; DMI Energy=4.043640e-20
+Time=2.612250e-10 ; Total Energy=8.542664e-18 ; Exchange Energy=1.416382e-18; StrayField Energy=6.382620e-18; Anisotropy Energy=7.032152e-19; DMI Energy=4.044680e-20
+Time=2.619750e-10 ; Total Energy=8.543247e-18 ; Exchange Energy=1.416761e-18; StrayField Energy=6.382532e-18; Anisotropy Energy=7.034967e-19; DMI Energy=4.045715e-20
+Time=2.627250e-10 ; Total Energy=8.543828e-18 ; Exchange Energy=1.417138e-18; StrayField Energy=6.382445e-18; Anisotropy Energy=7.037768e-19; DMI Energy=4.046744e-20
+Time=2.634750e-10 ; Total Energy=8.544406e-18 ; Exchange Energy=1.417514e-18; StrayField Energy=6.382359e-18; Anisotropy Energy=7.040555e-19; DMI Energy=4.047769e-20
+Time=2.642250e-10 ; Total Energy=8.544981e-18 ; Exchange Energy=1.417887e-18; StrayField Energy=6.382273e-18; Anisotropy Energy=7.043327e-19; DMI Energy=4.048788e-20
+Time=2.649750e-10 ; Total Energy=8.545553e-18 ; Exchange Energy=1.418259e-18; StrayField Energy=6.382187e-18; Anisotropy Energy=7.046085e-19; DMI Energy=4.049803e-20
+Time=2.657250e-10 ; Total Energy=8.546122e-18 ; Exchange Energy=1.418629e-18; StrayField Energy=6.382102e-18; Anisotropy Energy=7.048829e-19; DMI Energy=4.050812e-20
+Time=2.664750e-10 ; Total Energy=8.546689e-18 ; Exchange Energy=1.418997e-18; StrayField Energy=6.382018e-18; Anisotropy Energy=7.051559e-19; DMI Energy=4.051816e-20
+Time=2.672250e-10 ; Total Energy=8.547252e-18 ; Exchange Energy=1.419363e-18; StrayField Energy=6.381934e-18; Anisotropy Energy=7.054275e-19; DMI Energy=4.052816e-20
+Time=2.679750e-10 ; Total Energy=8.547813e-18 ; Exchange Energy=1.419727e-18; StrayField Energy=6.381850e-18; Anisotropy Energy=7.056978e-19; DMI Energy=4.053810e-20
+Time=2.687250e-10 ; Total Energy=8.548372e-18 ; Exchange Energy=1.420090e-18; StrayField Energy=6.381767e-18; Anisotropy Energy=7.059667e-19; DMI Energy=4.054800e-20
+Time=2.694750e-10 ; Total Energy=8.548927e-18 ; Exchange Energy=1.420451e-18; StrayField Energy=6.381685e-18; Anisotropy Energy=7.062342e-19; DMI Energy=4.055785e-20
+Time=2.702250e-10 ; Total Energy=8.549480e-18 ; Exchange Energy=1.420810e-18; StrayField Energy=6.381603e-18; Anisotropy Energy=7.065003e-19; DMI Energy=4.056765e-20
+Time=2.709750e-10 ; Total Energy=8.550031e-18 ; Exchange Energy=1.421167e-18; StrayField Energy=6.381521e-18; Anisotropy Energy=7.067651e-19; DMI Energy=4.057740e-20
+Time=2.717250e-10 ; Total Energy=8.550578e-18 ; Exchange Energy=1.421522e-18; StrayField Energy=6.381440e-18; Anisotropy Energy=7.070286e-19; DMI Energy=4.058710e-20
+Time=2.724750e-10 ; Total Energy=8.551123e-18 ; Exchange Energy=1.421876e-18; StrayField Energy=6.381359e-18; Anisotropy Energy=7.072907e-19; DMI Energy=4.059676e-20
+Time=2.732250e-10 ; Total Energy=8.551665e-18 ; Exchange Energy=1.422228e-18; StrayField Energy=6.381279e-18; Anisotropy Energy=7.075515e-19; DMI Energy=4.060637e-20
+Time=2.739750e-10 ; Total Energy=8.552205e-18 ; Exchange Energy=1.422579e-18; StrayField Energy=6.381199e-18; Anisotropy Energy=7.078109e-19; DMI Energy=4.061593e-20
+Time=2.747250e-10 ; Total Energy=8.552742e-18 ; Exchange Energy=1.422927e-18; StrayField Energy=6.381120e-18; Anisotropy Energy=7.080691e-19; DMI Energy=4.062545e-20
+Time=2.754750e-10 ; Total Energy=8.553276e-18 ; Exchange Energy=1.423274e-18; StrayField Energy=6.381041e-18; Anisotropy Energy=7.083259e-19; DMI Energy=4.063492e-20
+Time=2.762250e-10 ; Total Energy=8.553808e-18 ; Exchange Energy=1.423619e-18; StrayField Energy=6.380963e-18; Anisotropy Energy=7.085815e-19; DMI Energy=4.064435e-20
+Time=2.769750e-10 ; Total Energy=8.554337e-18 ; Exchange Energy=1.423963e-18; StrayField Energy=6.380885e-18; Anisotropy Energy=7.088357e-19; DMI Energy=4.065372e-20
+Time=2.777250e-10 ; Total Energy=8.554864e-18 ; Exchange Energy=1.424305e-18; StrayField Energy=6.380808e-18; Anisotropy Energy=7.090887e-19; DMI Energy=4.066306e-20
+Time=2.784750e-10 ; Total Energy=8.555388e-18 ; Exchange Energy=1.424645e-18; StrayField Energy=6.380731e-18; Anisotropy Energy=7.093403e-19; DMI Energy=4.067235e-20
+Time=2.792250e-10 ; Total Energy=8.555910e-18 ; Exchange Energy=1.424983e-18; StrayField Energy=6.380654e-18; Anisotropy Energy=7.095907e-19; DMI Energy=4.068159e-20
+Time=2.799750e-10 ; Total Energy=8.556429e-18 ; Exchange Energy=1.425320e-18; StrayField Energy=6.380578e-18; Anisotropy Energy=7.098399e-19; DMI Energy=4.069079e-20
+Time=2.807250e-10 ; Total Energy=8.556946e-18 ; Exchange Energy=1.425656e-18; StrayField Energy=6.380502e-18; Anisotropy Energy=7.100877e-19; DMI Energy=4.069995e-20
+Time=2.814750e-10 ; Total Energy=8.557460e-18 ; Exchange Energy=1.425989e-18; StrayField Energy=6.380427e-18; Anisotropy Energy=7.103343e-19; DMI Energy=4.070906e-20
+Time=2.822250e-10 ; Total Energy=8.557971e-18 ; Exchange Energy=1.426321e-18; StrayField Energy=6.380352e-18; Anisotropy Energy=7.105797e-19; DMI Energy=4.071813e-20
+Time=2.829750e-10 ; Total Energy=8.558480e-18 ; Exchange Energy=1.426651e-18; StrayField Energy=6.380278e-18; Anisotropy Energy=7.108238e-19; DMI Energy=4.072715e-20
+Time=2.837250e-10 ; Total Energy=8.558987e-18 ; Exchange Energy=1.426980e-18; StrayField Energy=6.380204e-18; Anisotropy Energy=7.110667e-19; DMI Energy=4.073613e-20
